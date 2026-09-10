@@ -21,11 +21,9 @@ asna.ru
 ati.su
 autonews.ru
 av.ru
-avito.ru
 avtovzglyad.ru
 baby.ru
 babyblog.ru
-banki.ru
 bashinform.ru
 bbr.ru
 beeline.ru
@@ -56,7 +54,6 @@ dns-shop.ru
 docdoc.ru
 doctis.ru
 domashniy.ru
-domclick.ru
 doverie-tv.ru
 dzen.ru
 e-katalog.ru
@@ -86,11 +83,9 @@ gismeteo.ru
 gks.ru
 gosfilmofond.ru
 goskatalog.ru
-gosuslugi92.ru
 habr.ru
 health-diet.ru
 hermitagemuseum.org
-hh.ru
 hi-news.ru
 histrf.ru
 ilibrary.ru
@@ -160,7 +155,6 @@ nic.ru
 nkj.ru
 nplus1.ru
 nskbl.ru
-nspk.ru
 nsportal.ru
 ntv.ru
 nukadeti.ru
@@ -182,11 +176,9 @@ pochtabank.ru
 popmech.ru
 postupi.online
 povar.ru
-pravdnr.ru
 professionali.ru
 profi.ru
 proza.ru
-psb.ru
 psbank.ru
 pypi.org
 radiomayak.ru
@@ -200,7 +192,6 @@ rlsnet.ru
 rosbank.ru
 rosreestr.ru
 rosuchebnik.ru
-rshb.ru
 rsl.ru
 rt.ru
 rulit.me
@@ -234,7 +225,6 @@ sudact.ru
 sudrf.ru
 tamtam.chat
 tatar-inform.ru
-tbank.ru
 tele2.ru
 teleprogramma.pro
 tiu.ru
@@ -264,11 +254,9 @@ vm.ru
 vokrugsveta.ru
 vrachirf.ru
 vsrf.ru
-vtb.ru
 webinar.ru
 wi-fi.ru
 wikireading.ru
-wildberries.ru
 woman.ru
 worldskills.ru
 xn--80aesfpebagmfblc0a.xn--p1ai
