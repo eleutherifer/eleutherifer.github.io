@@ -3,7 +3,7 @@
 * [generation-warp](https://generation-warp.github.io/)  
 * [generation-proton](https://generation-proton.github.io/)  
 * [proton-convertion](https://proton-convertion.github.io/)
-* [Форк usque-app](https://github.com/eleutherifer/usque-app/releases)
+* [Форк usque-app](https://github.com/eleutherifer/usque-app/releases)  
 Usque позволянет подключиться к WARP VPN по VPN-протоколу MASQUE.  
 В форке заменена используемая для регистрации ссылка на API на незабаненную ссылку на API для Zero Trust, чтобы можно было без VPN зарегистрироваться в Cloudflare.  
 * [Форк warpscout](https://github.com/eleutherifer/warpscout/releases)  
