@@ -1,11 +1,11 @@
 # Разное
 
 * [generation-warp](https://generation-warp.github.io/)  
-Форк генератора конфигов для WARP VPN. Об отличии форка от оригинала читайте там в README.  
+Форк генератора конфигов для WARP VPN. Об отличии форка от оригинала читайте там в [README](https://github.com/generation-warp/generation-warp.github.io/blob/main/README.md).  
 * [generation-proton](https://generation-proton.github.io/)  
-Форк генератора конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
+Форк генератора конфигов для Proton VPN. Об отличии форка от оригинала читайте там в [README](https://github.com/generation-warp/generation-proton.github.io/blob/main/README.md).  
 * [proton-convertion](https://proton-convertion.github.io/)  
-Форк конвертера конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
+Форк конвертера конфигов для Proton VPN. Об отличии форка от оригинала читайте там в [README](https://github.com/generation-warp/proton-convertion.github.io/blob/main/README.md).  
 * [Форк usque-app](https://github.com/eleutherifer/usque-app/releases)  
 Android-приложение Usque позволяет подключиться к WARP VPN по VPN-протоколу MASQUE.  
 В форке заменена используемая для регистрации ссылка на API на незабаненную ссылку на API для Zero Trust, что позволяет зарегистрироваться в Cloudflare без включения VPN.  
