@@ -5,7 +5,7 @@
 * [generation-proton](https://generation-proton.github.io/)  
 Форк генератора конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
 * [proton-convertion](https://proton-convertion.github.io/)  
-Форк конвертора конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
+Форк конвертера конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
 * [Форк usque-app](https://github.com/eleutherifer/usque-app/releases)  
 Android-приложение Usque позволяет подключиться к WARP VPN по VPN-протоколу MASQUE.  
 В форке заменена используемая для регистрации ссылка на API на незабаненную ссылку на API для Zero Trust, чтобы можно было без VPN зарегистрироваться в Cloudflare.  
