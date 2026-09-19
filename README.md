@@ -4,7 +4,7 @@
 * [generation-proton](https://generation-proton.github.io/)  
 * [proton-convertion](https://proton-convertion.github.io/)
 * [Форк usque-app](https://github.com/eleutherifer/usque-app/releases)  
-Usque позволянет подключиться к WARP VPN по VPN-протоколу MASQUE.  
+Android-приложение Usque позволяет подключиться к WARP VPN по VPN-протоколу MASQUE.  
 В форке заменена используемая для регистрации ссылка на API на незабаненную ссылку на API для Zero Trust, чтобы можно было без VPN зарегистрироваться в Cloudflare.  
 * [Форк warpscout](https://github.com/eleutherifer/warpscout/releases)  
 warpscout показывает в том числе к каким серверам (colo) происходит подключение при сипользовании различных эндпоинтов WARP VPN.  
