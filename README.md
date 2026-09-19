@@ -1,7 +1,7 @@
 # Разное
 
 * [generation-warp](https://generation-warp.github.io/)  
-Форк ненератора конфигов для WARP VPN. Об отличии форка от оригинала читайте там в README.  
+Форк генератора конфигов для WARP VPN. Об отличии форка от оригинала читайте там в README.  
 * [generation-proton](https://generation-proton.github.io/)  
 Форк генератора конфигов для Proton VPN. Об отличии форка от оригинала читайте там в README.  
 * [proton-convertion](https://proton-convertion.github.io/)
