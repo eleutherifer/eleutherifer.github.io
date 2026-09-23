@@ -53,7 +53,6 @@ docdoc.ru
 doctis.ru
 domashniy.ru
 doverie-tv.ru
-dzen.ru
 e-katalog.ru
 eapteka.ru
 edadeal.ru
@@ -122,7 +121,6 @@ lizaalert.org
 m24.ru
 maam.ru
 magnit.ru
-mail.ru
 mariinsky.ru
 matchtv.ru
 med-otzyv.ru
@@ -215,7 +213,6 @@ sovcombank.ru
 sovsport.ru
 spastv.ru
 sport24.ru
-sportmail.ru
 sportrbc.ru
 sportsdaily.ru
 stihi.ru
@@ -246,8 +243,6 @@ vesti.ru
 vgtrk.ru
 videouroki.net
 vitrina.tv
-vk.ru
-vkvideo.ru
 vm.ru
 vokrugsveta.ru
 vrachirf.ru
