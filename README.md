@@ -16,5 +16,5 @@ warpscout показывает в том числе к каким сервера
 268 SNI, из них три нероссийских: `pypi.org`, `deepseek.com`, `joomag.com`,  
 и есть 2 SNI из сети Cloudflare: `360tv.ru`, `nplus1.ru`.  
 SNI проверены 24.09.2026.  
-23.09.2026: перестали работать `dzen.ru`, `mail.ru`, `sportmail.ru`, `vk.ru`, `vkvideo.ru`
-24.09.2026: нашёл ещё один SNI: `medelement.com`
+23.09.2026: перестали работать `dzen.ru`, `mail.ru`, `sportmail.ru`, `vk.ru`, `vkvideo.ru`  
+24.09.2026: нашёл ещё один SNI: `medelement.com`  
